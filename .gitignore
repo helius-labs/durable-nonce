@@ -1,0 +1,6 @@
+node_modules/
+wallets/nonce.json
+wallets/nonceAuth.json
+wallets/wallet.json
+signed.json
+unsigned.json
