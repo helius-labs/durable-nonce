@@ -26,15 +26,11 @@ async function sendTransaction() {
   // Code goes here for the function
 }
 
-async function nonce() {
+async function createNonce() {
   // Code goes here for the function
 }
 
-async function getNonce() {
-  // Code goes here for the function
-}
-
-async function createTx(nonce) {
+async function createTransaction(nonce) {
   // Code goes here for the function
 }
 
@@ -42,7 +38,7 @@ async function signOffline(waitTime = WAIT_TIME) {
   // Code goes here for the function
 }
 
-async function executeTx() {
+async function executeTransaction() {
   // Code goes here for the function
 }
 
